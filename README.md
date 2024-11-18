@@ -40,14 +40,14 @@ Future updates will address these gaps to improve user experience and security.
 ### Prerequisites  
 
 - **Node.js** installed on your machine  
-- **PostgreSQL** installed and configured  r
+- **PostgreSQL** installed and configured
 - **pgAdmin** set up for managing the PostgreSQL database  
 
 ### Steps  
 
 1. **Clone the repository**:  
    ```bash  
-   git clone https://github.com/your-username/personal-finance-tracking-system.git  
+   https://github.com/prabhmeet-kira/Finance-Tracker.git
 2. **Navigate to the project directory**:  
    ```bash  
    cd personal-finance-tracking-system  
