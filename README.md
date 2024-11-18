@@ -1,6 +1,11 @@
 # Personal Finance Tracking System  
+ 
+The **Personal Finance Tracking System** is a web-based application that helps users manage their personal finances. It provides basic **Create, Read, and Delete (CRD)** operations for managing financial records, powered by **PostgreSQL** and **pgAdmin**. 
 
-A web-based application to help users manage their personal finances efficiently. The current version provides a dashboard with basic **Create, Read, and Delete (CRD)** operations, powered by **PostgreSQL** and **pgAdmin**.  
+While the current version offers essential functionality, it lacks an **Update (U)** feature and user authentication. Additionally, it does not yet include advanced features like data visualization. 
+
+Future updates will address these gaps to improve user experience and security.
+
 
 ---
 
@@ -28,7 +33,8 @@ A web-based application to help users manage their personal finances efficiently
 ---
 ## Screenshots
 
-![App Screenshot]()
+![Screenshot (316)](https://github.com/user-attachments/assets/6b13c3b3-2760-4f27-8b4f-d3b7e8157465)
+
 ## ⚙️ Setup and Installation  
 
 ### Prerequisites  
@@ -60,7 +66,7 @@ A web-based application to help users manage their personal finances efficiently
 6. **Start the backend server**:  
    ```bash  
    cd backend
-   npm start 
+   node server.js
 7. **Start the frontend development server**:  
    ```bash  
    cd frontend
