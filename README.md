@@ -7,7 +7,7 @@ A web-based application to help users manage their personal finances efficiently
 ## 👥 Team Members  
 
 - [**Aryan Jain**](https://github.com/08-Aryan)
-- [**Prabhmeet Singh**](https://github.com/your-username)  
+- [**Prabhmeet Singh**](https://github.com/prabhmeet-kira)  
 
 ---
 
