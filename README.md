@@ -67,7 +67,10 @@ A web-based application to help users manage their personal finances efficiently
    Open your browser and navigate to:
    ```bash
    http://localhost:3000
-🚀 Future Plans
-Add update (U) functionality to complete CRUD operations.
-Include user authentication for personalized dashboards.
-Add data visualization features for better financial insights.
+   ```
+## 🚀 Future Plans
+   ```bash
+   Add update (U) functionality to complete CRUD operations.
+   Include user authentication for personalized dashboards.
+   Add data visualization features for better financial insights.
+   ```
