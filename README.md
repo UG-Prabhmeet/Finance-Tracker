@@ -40,3 +40,26 @@ A web-based application to help users manage their personal finances efficiently
 1. **Clone the repository**:  
    ```bash  
    git clone https://github.com/your-username/personal-finance-tracking-system.git  
+2. **Navigate to the project directory**:  
+   ```bash  
+   cd personal-finance-tracking-system  
+3. **Install backend dependencies**:  
+   ```bash  
+   cd backend
+   npm install  
+4. **Install frontend dependencies**:  
+   ```bash  
+   cd frontend
+   npm install  
+5. **Set up environment variables**:
+   Create a .env file in the backend directory with the following content:
+   ```bash  
+   DATABASE_URL=your-postgresql-connection-url  
+6. **Start the backend server**:  
+   ```bash  
+   cd backend
+   npm start 
+7. **Start the frontend development server**:  
+   ```bash  
+   cd frontend
+   npm start 
