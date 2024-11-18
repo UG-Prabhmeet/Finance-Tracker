@@ -6,8 +6,8 @@ A web-based application to help users manage their personal finances efficiently
 
 ## 👥 Team Members  
 
-- **Aryan Jain**  
-- **Prabhmeet Singh**  
+- [**Aryan Jain**](https://github.com/08-Aryan)
+- [**Prabhmeet Singh**](https://github.com/your-username)  
 
 ---
 
@@ -26,7 +26,9 @@ A web-based application to help users manage their personal finances efficiently
 - **Database**: PostgreSQL with pgAdmin  
 
 ---
+## Screenshots
 
+![App Screenshot]()
 ## ⚙️ Setup and Installation  
 
 ### Prerequisites  
