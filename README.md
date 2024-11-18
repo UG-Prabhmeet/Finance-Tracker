@@ -62,4 +62,12 @@ A web-based application to help users manage their personal finances efficiently
 7. **Start the frontend development server**:  
    ```bash  
    cd frontend
-   npm start 
+   npm start
+## 🌐 Accessing the Application
+   Open your browser and navigate to:
+   ```bash
+   http://localhost:3000
+🚀 Future Plans
+Add update (U) functionality to complete CRUD operations.
+Include user authentication for personalized dashboards.
+Add data visualization features for better financial insights.
