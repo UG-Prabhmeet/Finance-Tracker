@@ -37,17 +37,35 @@ Future updates will address these gaps to improve user experience and security.
 - pgAdmin
 
 ## 🏗️ Project Structure
-```bash 
-📁 FinTrack/
-├── 📁 backend/ # Node.js server code
-│ ├── 📁 models/ # Database models
-│ ├── 📁 routes/ # API routes
-│ └── 📄 server.js # Main server file
-├── 📁 frontend/ # React application
-│ ├── 📁 public/ # Static assets
-│ └── 📁 src/ # React components
-├── 📄 .env.example # Environment variables template
-└── 📄 README.md # Project documentation
+```text
+📦 project-root
+├── 📂 backend
+│   ├── 📄 package-lock.json
+│   ├── 📄 package.json
+│   └── 📄 server.js
+│
+├── 📂 frontend
+│   ├── 📂 public
+│   │   ├── 📄 index.html
+│   │   ├── 📄 manifest.json
+│   │   └── 📄 robots.txt
+│   │
+│   ├── 📂 src
+│   │   ├── 📄 App.css
+│   │   ├── 📄 App.js
+│   │   ├── 📄 App.test.js
+│   │   ├── 📄 Login.js
+│   │   ├── 📄 Signup.js
+│   │   ├── 📄 index.css
+│   │   ├── 📄 index.js
+│   │   ├── 📄 reportWebVitals.js
+│   │   └── 📄 setupTests.js
+│   │
+│   ├── 📄 package-lock.json
+│   ├── 📄 package.json
+│   └── 📄 README.md
+│
+└── 📄 README.md
 ```
 ## 👥 Team Members  
 
