@@ -86,7 +86,7 @@ Future updates will address these gaps to improve user experience and security.
 
 1. **Clone the repository**:  
    ```bash  
-   https://github.com/prabhmeet-kira/Finance-Tracker.git
+   https://github.com/UG-Prabhmeet/Finance-Tracker.git
 2. **Navigate to the project directory**:  
    ```bash  
    cd personal-finance-tracking-system  
