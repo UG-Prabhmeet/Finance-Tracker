@@ -11,8 +11,8 @@ Future updates will address these gaps to improve user experience and security.
 
 ## 👥 Team Members  
 
+- [**Prabhmeet Singh**](https://github.com/prabhmeet-kira)
 - [**Aryan Jain**](https://github.com/08-Aryan)
-- [**Prabhmeet Singh**](https://github.com/prabhmeet-kira)  
 
 ---
 
