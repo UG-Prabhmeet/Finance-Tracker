@@ -1,39 +1,60 @@
-# Personal Finance Tracking System  
+# 💰 Finance Journal - Simple Spending Tracker 
  
-The **Personal Finance Tracking System** is a web-based application that helps users manage their personal finances. It provides basic **Create, Read, and Delete (CRD)** operations for managing financial records, powered by **PostgreSQL** and **pgAdmin**. 
+**Finance Journal** is a clean, no-frills web app that helps you record daily financial transactions like a digital money diary. It provides basic **Create, Read, and Delete (CRD)** operations for managing financial records, powered by **PostgreSQL** and **pgAdmin**. 
 
 While the current version offers essential functionality, it lacks an **Update (U)** feature and user authentication. Additionally, it does not yet include advanced features like data visualization. 
 
 Future updates will address these gaps to improve user experience and security.
 
-
 ---
+![Dashboard Screenshot](https://github.com/user-attachments/assets/6b13c3b3-2760-4f27-8b4f-d3b7e8157465)
 
+## ✨ Key Features
+
+- 📊 Interactive financial dashboard
+- ➕ Create new financial records
+- 👀 View transaction history
+- ❌ Delete unwanted entries
+- 🗃️ PostgreSQL database integration
+- 🔄 Real-time data updates
+
+## 🚀 Upcoming Features
+
+- 🔄 Update functionality (completing CRUD)
+- 🔐 User authentication system
+- 📈 Advanced data visualization
+- 📱 Mobile-responsive design
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+- PostgreSQL
+- pgAdmin
+
+## 🏗️ Project Structure
+```bash 
+📁 FinTrack/
+├── 📁 backend/ # Node.js server code
+│ ├── 📁 models/ # Database models
+│ ├── 📁 routes/ # API routes
+│ └── 📄 server.js # Main server file
+├── 📁 frontend/ # React application
+│ ├── 📁 public/ # Static assets
+│ └── 📁 src/ # React components
+├── 📄 .env.example # Environment variables template
+└── 📄 README.md # Project documentation
+```
 ## 👥 Team Members  
 
-- [**Prabhmeet Singh**](https://github.com/prabhmeet-kira)
+- [**Prabhmeet Singh**](https://github.com/UG-Prabhmeet)
 - [**Aryan Jain**](https://github.com/08-Aryan)
 
 ---
-
-## ✨ Features  
-
-- **Dashboard Interface**: A user-friendly dashboard to manage and view financial data.  
-- **CRD Operations**: Supports creating, viewing, and deleting financial records.  
-- **Database Management**: Uses pgAdmin for database interactions and management.  
-
----
-
-## 🛠️ Technologies Used  
-
-- **Frontend**: React.js  
-- **Backend**: Node.js with Express.js  
-- **Database**: PostgreSQL with pgAdmin  
-
----
-## Screenshots
-
-![Screenshot (316)](https://github.com/user-attachments/assets/6b13c3b3-2760-4f27-8b4f-d3b7e8157465)
 
 ## ⚙️ Setup and Installation  
 
